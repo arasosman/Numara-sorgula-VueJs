@@ -1,6 +1,8 @@
 .DS_Store
 node_modules
 /dist
+/public/assets
+/src/assets
 
 # local env files
 .env.local
